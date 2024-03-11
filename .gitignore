@@ -3,9 +3,6 @@ splited_dataset/
 venv/
 data.rar
 formulas.pickle
-labels.pickle
-model.keras
-model.weights.h5
 
 # Created by https://www.toptal.com/developers/gitignore/api/venv,archlinuxpackages,linux,jetbrains,jetbrains+all,jetbrains+iml,visualstudiocode,openframeworks+visualstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=venv,archlinuxpackages,linux,jetbrains,jetbrains+all,jetbrains+iml,visualstudiocode,openframeworks+visualstudio
